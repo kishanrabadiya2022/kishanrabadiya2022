@@ -129,11 +129,7 @@ Currently learning **React.js** and building multiple real-world projects using 
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanrabadiya2022&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanrabadiya2022&layout=compact&theme=tokyonight" height="165" />
-</p>
+
 
 ---
 
