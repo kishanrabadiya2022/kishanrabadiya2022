@@ -82,7 +82,7 @@ Currently learning **React.js** and building multiple real-world projects using 
 - Built a fully responsive temple website  
 - Added galleries, donation sections, and interactive UI  
 - Implemented AI-assisted layout design  
-**Demo:** *(Add link if available)*
+
 
 ---
 
@@ -91,7 +91,7 @@ Currently learning **React.js** and building multiple real-world projects using 
 - Full-stack system to handle customer complaints  
 - Admin dashboard, complaint tracking, secure database  
 - Dynamic tables & analytics reporting  
-**Demo:** *(Add link if available)*
+
 
 ---
 
@@ -101,7 +101,7 @@ Currently learning **React.js** and building multiple real-world projects using 
 - Role-based workflows for Employee / HR / Admin  
 - CRUD operations with JSON-based backend  
 - Designed dashboards for salary & performance analytics  
-**Demo:** *(Add link if available)*
+
 
 ---
 
