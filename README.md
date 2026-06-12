@@ -120,7 +120,7 @@ Currently learning **React.js** and building multiple real-world projects using 
 ### **Bachelor of Engineering (B.E.) – Information Technology**  
 📍 Government Engineering College, Modasa (GTU)  
 📅 *Expected Graduation: 2027*  
-📌 **CPI:** 7.91 | **SPI:** 8.48 | **Semester:** 5th  
+📌 **CPI:** 9.17 | **SPI:** 9.17 | **Semester:** 6th  
 
 ---
 
